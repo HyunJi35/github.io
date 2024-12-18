@@ -1,0 +1,29 @@
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Roboto', 'Noto Sans KR', sans-serif;
+  }
+
+  .nav-item.nav-link.active {
+    padding: 0.5rem 4rem;
+  }
+  
+  .custom-bg {
+    background-color: #fcf0f5;
+  }
+  
+  .post-bg {
+    background-color: #f3f3f3;
+  }
+  
+  .post-margin {
+    margin-right: -50px;
+  }
+  
+  .wen-margin {
+    margin-right: 80px;
+  }
+
+  .blog-header-logo {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 3rem;
+    color: #002a10 !important;
+  }
